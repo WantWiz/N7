@@ -15,7 +15,7 @@ typedef struct monnaie monnaie;
  * \brief Initialiser une monnaie 
  * \param[]
  * \pre 
- * // TODO
+ * 
  */ 
 void initialiser(monnaie *argent, float valeur, char devise){
     assert(valeur >= 0.0);
